@@ -1,0 +1,8 @@
+﻿  lab06.c
+C:\Users\Administrator\source\repos\lab06\lab06.c(30,84): warning C4013: 'pow' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\lab06\lab06.c(26,13): warning C4101: 'kr': unreferenced local variable
+C:\Users\Administrator\source\repos\lab06\lab06.c(26,9): warning C4101: 'kv': unreferenced local variable
+C:\Users\Administrator\source\repos\lab06\lab06.c(31,1): warning C4716: 'task03': must return a value
+C:\Users\Administrator\source\repos\lab06\lab06.c(24,1): warning C4716: 'task02': must return a value
+C:\Users\Administrator\source\repos\lab06\lab06.c(15,1): warning C4716: 'task01': must return a value
+  lab06.vcxproj -> C:\Users\Administrator\source\repos\lab06\x64\Debug\lab06.exe
